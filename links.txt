@@ -6,3 +6,6 @@ https://colours.neilorangepeel.com/ - CSS colour reference
 https://css-tricks.com - CSS Tricks
 https://coolors.co - Generates color pallete
 https://specificity.keegan.st - CSS specificity calculator
+https://www.cssfontstack.com - Web safe fonts
+https://cssdeck.com - Good ready to use decks
+https://www.fontsquirrel.com - Nice collection of fonts which can be downloaded
